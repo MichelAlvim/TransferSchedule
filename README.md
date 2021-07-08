@@ -11,8 +11,8 @@
 
 ### Clonar o projeto
 
-- git clone git@github.com:macedo2300/cvc-teste-api.git
-- Entrar na pasta "cvc-teste-api/conect-new-broker-api"
+- git clone https://github.com/MichelAlvim/TransferSchedule.git
+- Entrar na pasta "TransferSchedule"
 
 
 Para rodar o projeto localmente com o maven executar o comando:
